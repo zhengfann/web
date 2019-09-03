@@ -106,19 +106,4 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
 
   # Collections
-  collections:
-    research:
-      output: true
-      permalink: /:collection/:path/
-    publications:
-      output: true
-      permalink: /:collection/:path/
-    softwares:
-      output: true
-      permalink: /:collection/:path/
 
-pages_list:       
-  Research: '/research'
-  Publication: '/publication'
-  CV: '/cv'
-  Software: '/software'
