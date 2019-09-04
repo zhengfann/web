@@ -1,22 +1,50 @@
 ---
 layout: page
 title: Research
-description: Blue Ham's research
+description: Fan Zheng's research
 ---
 
+# Hot-carrier cooling and charge transfer across interface
+
+Plasmon photochemistry can potentially play a significant role in photocatalysis. 
+To realize this potential, it is critical to enhance the plasmon excited hot 
+carrier transfer and collection. We apply the non-adiabatic molecular dynamics (NAMD)
+simulation to study hot carrier dynamics in the system of Au nanocluster on 
+top of GaN surface. By setting up the initial excited hole in Au, the carrier 
+transfer from Au to GaN is found to be on a sub-pico second time scale. By applying 
+different external potentials to mimic the Schottky-barrier band bending, the 
+charge transfer efficiency can be enhanced, demonstrating the importance of the 
+internal electric field. Finally, with the understanding of the carrier transfer's 
+pathway, we suggest that a ZnO layer between GaN and Au can effectively block the 
+"cold" carrier from returning back to Au but still allow the hot carrier to transfer 
+from Au to GaN.
 
 
-#### <u>The effects of increased eye contact on feeding portions</u>
-*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
+# Large Polaron Formation and its Effect on Electron Transport in Halide Perovskite
 
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
+Many experiments have indicated that large polaron may be formed in hybrid 
+perovskite, and its existence is proposed to enhance the long lifetime for 
+the carriers. However, detailed theoretical study of the large polaron and 
+its effect on carrier transport at the atomic level is still lacking. Here, 
+we implement tight-binding model fitted from the density-functional theory 
+and we find that the formation energy of the large polaron is around -12 meV. 
+By performing the explicit time-dependent wavefunction evolution of the polaron 
+state, the diffusion constant and mobility of the large polaron state driven 
+by the dynamic disorder and the sublattice vibration are obtained. 
 
 
-<!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
+# Non-adiabaticity in CO2 reduction reactions
 
-<!--
-To increase the size of the title, use fewer # in front of the paper title.
-To decrease the size of the title, use more #. 
-To remove the italics, remove the * before and after the description
-To remove the underline from the title, remove the <u> tags (<u> and </u>)
--->
+# Rashba effect in halide perovskite
+
+Halide perovskites are promising solar-cell materials for next-generation 
+photovoltaic applications. The long carrier lifetime and diffusion length of these materials make them very attractive for use in light absorbers and carrier transporters. While these aspects of organometal halide perovskites have attracted the most attention, the consequences of the Rashba effect, driven by strong spin–orbit coupling, on the photovoltaic properties of these materials are largely unexplored. In this work, taking the electronic structure of CH3NH3PbI3 (methylammonium lead iodide) as an example, we propose an intrinsic mechanism for enhanced carrier lifetime in three-dimensional (3D) Rashba materials. On the basis of first-principles calculations and a Rashba spin–orbit model, we demonstrate that the recombination rate is reduced due to the spin-forbidden transition. These results are important for understanding the fundamental physics of organometal halide perovskites and for optimizing and designing the materials with better performance. The proposed mechanism including spin degrees of freedom offers a new paradigm of using 3D Rashba materials for photovoltaic applications.
+
+
+# Complex structures
+
+## Crystalline Si and amorphous SiO2 interface: the effect of the interfacial width to the band offset
+
+
+
+
