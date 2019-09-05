@@ -5,7 +5,7 @@ description: Fan Zheng
 keywords: Fan Zheng, first principle, Ph.D. Berkeley Lab
 ---
 
-# About me
+## About me
 
 I am Fan Zheng, a postdoc fellow working in Lawrence Berkeley National Lab.
 chemistry. I am a theoretical material scientist. Instead of synthesizing 
@@ -17,7 +17,7 @@ chemistry. My thesis is focusing on solar cells, particularly, concerning
 mechanism of the bulk photovoltaic effect and halide perovskite.[more](/pages/cv.md)
 
 ---
-# Research Interest
+## Research Interest
 
 I develop and use *ab initio* methods to simulate carrier dynamics in materials. 
 By developing and applying the first-priniciple's computation methods, I am 
@@ -27,7 +27,7 @@ chemical reactions, and nano-materials. Understanding these processes will
 help to design more efficient materials or devices. [more](/pages/research.md)
 
 ---
-# Contact me
+## Contact me
 
 Fan Zheng
 
