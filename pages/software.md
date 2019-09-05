@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Software
 description: Fan Zheng's research
 ---
 
@@ -13,8 +13,22 @@ performed by computing adiabatic states' overlapping between two MD steps.
 NAMD will use the overlapping values to re-construct Hamiltonian and simulate 
 carrier dynamics. For now, only PWmat MD is implemented. Soon, we will have 
 [QE](https://www.quantum-espresso.org/) support. See details 
-[here](https://bitbucket.org/zhfan_dertba/namd_basic/)
+[here](https://bitbucket.org/zhfan_dertba/namd_basic/).
 
 
 
-### [Genetic Algorithm to find global minimum structure (GA)](https://bitbucket.org/zhfan_dertba/ga_algorithm/)
+### [Genetic Algorithm (GA) to find structure](https://bitbucket.org/zhfan_dertba/ga_algorithm/)
+
+Genetic algorithm is an engine to search global minimum structure based on the 
+total energy, formation energy and other quantities. Particularly, this program 
+can handle multiple-molecule case (such as water) and find their most-stable arrangement 
+(e.g. on a metal surface). It utilizes DFT/force-field optimization program 
+and iterate generations with the evolution style. For now, this program can use [QE](), [VASP](), 
+PWmat, and [LAMMPS]() optimization. It can search multiple-atom and -molecule cases, either 
+on a surface or forming a cluster. See details 
+[here](https://bitbucket.org/zhfan_dertba/ga_algorithm/).
+
+
+### [Bond switching to build amorphous structure](https://bitbucket.org/zhfan_dertba/bond_switching/)
+
+
