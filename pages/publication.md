@@ -12,7 +12,7 @@ description: Fan Zheng's research
 
 0. Shi-Jing Gong, **F. Zheng**, A. M. Rappe, "Phonon Influence on Bulk Photovoltaic Effect in the Ferroelectric Semiconductor GeTe", *Phys. Rev. Lett.*, 121, 017402 (2018) [html](http://dx.doi.org/10.1103/PhysRevLett.121.017402) [pdf](/papers/PhysRevLett.121.017402.pdf)
 
-0. L. You*, **F. Zheng**\*, L. Fang, Y. Zhou, L. Z. Tan, Z. Zhang, G. Ma, D. Schmidt, A. Rusydi, L. Wang, L. Chang, A. M. Rappe, J. Wang, "Enhancing ferroelectric photovoltaic effect by polar order engineering", *Science Advances*, 4, eaat3438 (2018) [html](http://dx.doi.org/10.1126/sciadv.aat3438) [pdf](/papers/eaat3438.full.pdf)
+0. L. You\*, **F. Zheng**\*, L. Fang, Y. Zhou, L. Z. Tan, Z. Zhang, G. Ma, D. Schmidt, A. Rusydi, L. Wang, L. Chang, A. M. Rappe, J. Wang, "Enhancing ferroelectric photovoltaic effect by polar order engineering", *Science Advances*, 4, eaat3438 (2018) [html](http://dx.doi.org/10.1126/sciadv.aat3438) [pdf](/papers/eaat3438.full.pdf)
 
 0. **F. Zheng**, H. Pham, and L.-W. Wang, "Effects of the c-Si/a-SiO2 interfacial atomic structure on its band alignment: an ab initio study", *Phys. Chem. Chem. Phys.* 19 32617 (2017) [html](http://dx.doi.org/10.1039/C7CP05879A) [pdf](/papers/c7cp05879a.pdf)
 
@@ -44,11 +44,11 @@ description: Fan Zheng's research
 
 0. J. Tao. S. Liu, **F. Zheng**, and A. M. Rappe, "Quantum Pressure and Chemical Bonding: Influence of Magnetic Fields on Electron Localization", *Phys. Rev. B Rapid Comm.* 92, 060401 (2015) [html](http://dx.doi.org/10.1103/PhysRevB.92.060401) [pdf](/papers/PhysRevB.92.060401.pdf)
 
-0. S. Liu, **F. Zheng**, N. Z. Koocher, H. Takenaka, F. Wang, and A. M. Rappe, "Ferroelectric Domain Wall Induced Band Gap Reduction and Charge Separation in Organometal Halide Perovskite" *J. Phys. Chem. Lett.* 6, 693 (2015) [html](http://dx.doi.org/10.1021/jz502666j) [pdf](/papers/jz502666j.pdf)
+0. S. Liu, **F. Zheng**, N. Z. Koocher, H. Takenaka, F. Wang, and A. M. Rappe, "Ferroelectric Domain Wall Induced Band Gap Reduction and Charge Separation in Organometal Halide Perovskite", *J. Phys. Chem. Lett.* 6, 693 (2015) [html](http://dx.doi.org/10.1021/jz502666j) [pdf](/papers/jz502666j.pdf)
 
-0. **F. Zheng**, H. Takenaka, F. Wang, N. Z. Koocher, and A. M. Rappe, "First-principles Calculations of the Bulk Photovoltaic Effect in CH3NH3PbI3 and CH3NH3PbI3-xClx" *J. Phys. Chem. Lett.* 6, 31 (2015) [html](http://dx.doi.org/10.1021/jz502109e) [pdf](/papers/jz502109e.pdf)
+0. **F. Zheng**, H. Takenaka, F. Wang, N. Z. Koocher, and A. M. Rappe, "First-principles Calculations of the Bulk Photovoltaic Effect in CH3NH3PbI3 and CH3NH3PbI3-xClx", *J. Phys. Chem. Lett.* 6, 31 (2015) [html](http://dx.doi.org/10.1021/jz502109e) [pdf](/papers/jz502109e.pdf)
 
-0. J. A. Brehm, S. M. Young, **F. Zheng**, and A. M. Rappe, "First-principles calculation of the bulk photovoltaic effect in the polar compounds LiAsS2, LiAsSe2, and NaAsSe2" *J. Chem. Phys.* 141, 204704 (2014) [html](http://dx.doi.org/10.1063/1.4901433) [pdf](/papers/1.4901433.pdf)
+0. J. A. Brehm, S. M. Young, **F. Zheng**, and A. M. Rappe, "First-principles calculation of the bulk photovoltaic effect in the polar compounds LiAsS2, LiAsSe2, and NaAsSe2", *J. Chem. Phys.* 141, 204704 (2014) [html](http://dx.doi.org/10.1063/1.4901433) [pdf](/papers/1.4901433.pdf)
 
 0. S. M. Young, **F. Zheng**, and A. M. Rappe, "Prediction of a Linear Spin Bulk Photovoltaic Effect in Antiferromagnets", *Phys. Rev. Lett.* 110, 057201 (2013) [html](http://dx.doi.org/10.1103/PhysRevLett.110.057201) [pdf](/papers/PhysRevLett.110.057201.pdf)
 

@@ -14,6 +14,7 @@ description: Fan Zheng's research
     - Advisor:    Lin-wang Wang
 
     - Date:  Dec/2016 to now
+
 ---
 
 
@@ -32,6 +33,7 @@ description: Fan Zheng's research
     - Major:     Chemical Physics
 
     - Date: Sept. 2006 ~ Jul. 2010
+
 ---
 
 
@@ -44,6 +46,7 @@ description: Fan Zheng's research
 - **Software**: Abinit, Elk, FHI-AIMS, GAMESS, Gromacs, Quantum Espresso, Wannier90
 
 - **System Administrator**: Maintaining one computation cluster, one file server and ~20 desktops
+
 ---
 
 
@@ -52,14 +55,14 @@ description: Fan Zheng's research
 - Teaching Assistant for General Chemistry Lab in University of Pennsylvania (Sept. 2010 ~ May 2011)
 
 - Mentor 3 graduate students and 3 undergraduate students
+
 ---
 
 
 ## Publications
 
-See [Publications](/pages/publication.md)
+See [Publications](/pages/publication.md) and [Google Scholar](https://scholar.google.com/citations?user=KwRlfz0AAAAJ&hl=en)
 
-See my [Google Scholar](https://scholar.google.com/citations?user=KwRlfz0AAAAJ&hl=en)
 ---
 
 
@@ -76,3 +79,5 @@ See my [Google Scholar](https://scholar.google.com/citations?user=KwRlfz0AAAAJ&h
 - Material design with novel functionality based on first-principles method
 
 - Electrochemistry, catalysis
+
+---
