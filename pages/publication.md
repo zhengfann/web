@@ -44,7 +44,7 @@ description: Fan Zheng's research
 
 0. J. Tao. S. Liu, **F. Zheng**, and A. M. Rappe, "Quantum Pressure and Chemical Bonding: Influence of Magnetic Fields on Electron Localization", *Phys. Rev. B Rapid Comm.* 92, 060401 (2015) [html](http://dx.doi.org/10.1103/PhysRevB.92.060401) [pdf](/papers/PhysRevB.92.060401.pdf)
 
-0. S. Liu, **F. Zheng**, N. Z. Koocher, H. Takenaka, F. Wang, and A. M. Rappe, "Ferroelectric Domain Wall Induced Band Gap Reduction and Charge Separation in Organometal Halide Perovskite" *J. Phys. Chem. Lett.* 6, 693 (2015) [html](http://dx.doi.org/10.1021/jz502666j) [pdf](|/papers/jz502666j.pdf)
+0. S. Liu, **F. Zheng**, N. Z. Koocher, H. Takenaka, F. Wang, and A. M. Rappe, "Ferroelectric Domain Wall Induced Band Gap Reduction and Charge Separation in Organometal Halide Perovskite" *J. Phys. Chem. Lett.* 6, 693 (2015) [html](http://dx.doi.org/10.1021/jz502666j) [pdf](/papers/jz502666j.pdf)
 
 0. **F. Zheng**, H. Takenaka, F. Wang, N. Z. Koocher, and A. M. Rappe, "First-principles Calculations of the Bulk Photovoltaic Effect in CH3NH3PbI3 and CH3NH3PbI3-xClx" *J. Phys. Chem. Lett.* 6, 31 (2015) [html](http://dx.doi.org/10.1021/jz502109e) [pdf](/papers/jz502109e.pdf)
 
