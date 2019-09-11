@@ -61,7 +61,7 @@ description: Fan Zheng's research
 
 ## Publications
 
-See [Publications](/pages/publication.md) and [Google Scholar](https://scholar.google.com/citations?user=KwRlfz0AAAAJ&hl=en)
+See [Publications](/pages/publication.html) and [Google Scholar](https://scholar.google.com/citations?user=KwRlfz0AAAAJ&hl=en)
 
 ---
 
