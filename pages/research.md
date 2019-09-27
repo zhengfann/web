@@ -6,7 +6,7 @@ description: Fan Zheng's research
 
 ### Hot-carrier cooling and charge transfer across interface
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:320px; HEIGHT:200px" SRC="GaN.png">
+<IMG STYLE="position:absolute; TOP:185px; LEFT:200px; WIDTH:235px; HEIGHT:180px" SRC="GaN.png">
 
 Plasmon photochemistry can potentially play a significant role in photocatalysis. 
 To realize this potential, it is critical to enhance the plasmon excited hot 
