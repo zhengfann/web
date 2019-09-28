@@ -21,8 +21,11 @@ pathway, we suggest that a ZnO layer between GaN and Au can effectively block th
 "cold" carrier from returning back to Au but still allow the hot carrier to transfer 
 from Au to GaN.
 
+<br/><br/>
 
 ### Large Polaron Formation and its Effect on Electron Transport in Halide Perovskite
+
+<IMG STYLE="position:absolute; TOP:415px; LEFT:200px; WIDTH:241px; HEIGHT:180px" SRC="polaron.png">
 
 Many experiments have indicated that large polaron may be formed in hybrid 
 perovskite, and its existence is proposed to enhance the long lifetime for 
@@ -38,6 +41,8 @@ by the dynamic disorder and the sublattice vibration are obtained.
 ### Non-adiabaticity in CO2 reduction reactions
 
 ### Rashba effect in halide perovskite
+
+<IMG STYLE="position:absolute; TOP:705px; LEFT:200px; WIDTH:205px; HEIGHT:180px" SRC="rashba.png">
 
 Halide perovskites are promising solar-cell materials for next-generation 
 photovoltaic applications. The long carrier lifetime and diffusion length of these materials make them very attractive for use in light absorbers and carrier transporters. While these aspects of organometal halide perovskites have attracted the most attention, the consequences of the Rashba effect, driven by strong spin–orbit coupling, on the photovoltaic properties of these materials are largely unexplored. In this work, taking the electronic structure of CH3NH3PbI3 (methylammonium lead iodide) as an example, we propose an intrinsic mechanism for enhanced carrier lifetime in three-dimensional (3D) Rashba materials. On the basis of first-principles calculations and a Rashba spin–orbit model, we demonstrate that the recombination rate is reduced due to the spin-forbidden transition. These results are important for understanding the fundamental physics of organometal halide perovskites and for optimizing and designing the materials with better performance. The proposed mechanism including spin degrees of freedom offers a new paradigm of using 3D Rashba materials for photovoltaic applications.
