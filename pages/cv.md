@@ -4,8 +4,6 @@ title: CV
 description: Fan Zheng's research
 ---
 
-## Fan Zheng
----
 
 ## Research Position
 
