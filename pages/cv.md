@@ -37,6 +37,24 @@ description: Fan Zheng's research
 ---
 
 
+## Research Interests
+
+- Computional materials modeling
+
+- Carrier dynamics, hot carrier's cooling, electron-phonon coupling
+
+- Hybrid halide perovskite, large polaron
+
+- Light-matter interaction / photovoltaic mechanism and engineering
+
+- Material design with novel functionality based on first-principles method
+
+- Electrochemistry, catalysis
+
+---
+
+
+
 ## PROFESSIONAL SKILLS
 
 - **Programing**: C, Fortran, Matlab, MPI, OpenMP, Python
@@ -66,18 +84,4 @@ See [Publications](/pages/publication.html) and [Google Scholar](https://scholar
 ---
 
 
-## Research Interests
 
-- Computional materials modeling
-
-- Carrier dynamics, hot carrier's cooling, electron-phonon coupling
-
-- Hybrid halide perovskite, large polaron
-
-- Light-matter interaction / photovoltaic mechanism and engineering
-
-- Material design with novel functionality based on first-principles method
-
-- Electrochemistry, catalysis
-
----
