@@ -4,7 +4,7 @@ title: Research
 description: Fan Zheng's research
 ---
 
-## Hot-carrier cooling and charge transfer across interface
+### Hot-carrier cooling and charge transfer across interface
 
 <IMG STYLE="position:absolute; TOP:195px; LEFT:200px; WIDTH:235px; HEIGHT:180px" SRC="GaN.png">
 
@@ -21,9 +21,7 @@ pathway, we suggest that a ZnO layer between GaN and Au can effectively block th
 "cold" carrier from returning back to Au but still allow the hot carrier to transfer 
 from Au to GaN. [more](https://doi.org/10.1021/acs.jpclett.9b02402)
 
-<br/><br/>
-
-## Large Polaron Formation and its Effect on Electron Transport in Halide Perovskite
+### Large Polaron Formation and its Effect on Electron Transport in Halide Perovskite
 
 <IMG STYLE="position:absolute; TOP:465px; LEFT:200px; WIDTH:221px; HEIGHT:165px" SRC="polaron.png">
 
@@ -39,7 +37,7 @@ by the dynamic disorder and the sublattice vibration are obtained.
 [more](http://dx.doi.org/10.1039/C8EE03369B)
 
 
-## Rashba effect in halide perovskite
+### Rashba effect in halide perovskite
 
 <IMG STYLE="position:absolute; TOP:755px; LEFT:200px; WIDTH:205px; HEIGHT:180px" SRC="rashba.png">
 
@@ -57,7 +55,7 @@ we demonstrate that the recombination rate is reduced due to the spin-forbidden
 transition. [more](http://dx.doi.org/10.1021/acs.nanolett.5b01854)
 
 
-## Non-adiabaticity in CO2 reduction reactions
+### Non-adiabaticity in CO2 reduction reactions
 
 ### Complex structures 1: Crystalline Si and amorphous SiO2 interface
 
