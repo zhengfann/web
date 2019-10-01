@@ -21,6 +21,8 @@ pathway, we suggest that a ZnO layer between GaN and Au can effectively block th
 "cold" carrier from returning back to Au but still allow the hot carrier to transfer 
 from Au to GaN. [more](https://doi.org/10.1021/acs.jpclett.9b02402)
 
+<br/>
+
 ### Large Polaron Formation and its Effect on Electron Transport in Halide Perovskite
 
 <IMG STYLE="position:absolute; TOP:465px; LEFT:200px; WIDTH:221px; HEIGHT:165px" SRC="polaron.png">
@@ -36,10 +38,11 @@ state, the diffusion constant and mobility of the large polaron state driven
 by the dynamic disorder and the sublattice vibration are obtained. 
 [more](http://dx.doi.org/10.1039/C8EE03369B)
 
+<br/>
 
 ### Rashba effect in halide perovskite
 
-<IMG STYLE="position:absolute; TOP:755px; LEFT:200px; WIDTH:205px; HEIGHT:180px" SRC="rashba.png">
+<IMG STYLE="position:absolute; TOP:745px; LEFT:200px; WIDTH:205px; HEIGHT:180px" SRC="rashba.png">
 
 Halide perovskites are promising solar-cell materials for next-generation 
 photovoltaic applications. The long carrier lifetime and diffusion length of 
@@ -54,6 +57,7 @@ On the basis of first-principles calculations and a Rashba spin-orbit model,
 we demonstrate that the recombination rate is reduced due to the spin-forbidden 
 transition. [more](http://dx.doi.org/10.1021/acs.nanolett.5b01854)
 
+<br/>
 
 ### Non-adiabaticity in CO2 reduction reactions
 
