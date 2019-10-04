@@ -42,7 +42,7 @@ by the dynamic disorder and the sublattice vibration are obtained.
 
 ### Rashba effect in halide perovskite
 
-<IMG STYLE="position:absolute; TOP:745px; LEFT:200px; WIDTH:205px; HEIGHT:180px" SRC="rashba.png">
+<IMG STYLE="position:absolute; TOP:745px; LEFT:210px; WIDTH:205px; HEIGHT:180px" SRC="rashba.png">
 
 Halide perovskites are promising solar-cell materials for next-generation 
 photovoltaic applications. The long carrier lifetime and diffusion length of 

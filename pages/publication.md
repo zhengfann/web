@@ -4,6 +4,8 @@ title: Publications
 description: Fan Zheng's research
 ---
 
+See full publication/citation list at [Google Scholar](https://scholar.google.com/citations?user=KwRlfz0AAAAJ&hl=en)
+
 0. D. Kim, S. Yu, **F. Zheng**, Y. Li, S. Louisia, H. Frei, Lin-Wang Wang, and Peidong Yang, "Selective CO2 Electrocatalysis at the Pseudocapacitive Nanoparticle/Ordered-Ligand Interlayer", submitted.
 
 0. Y. Zhang, J. Kang, **F. Zheng**, P. Gao, S. Zhang, L.-W. Wang, "Borophosphene: a New Anisotrop Dirac Cone Monolayer with High Fermi Velocity and Unique Feature of Self-Doping", submitted.
