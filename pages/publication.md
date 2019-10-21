@@ -6,9 +6,11 @@ description: Fan Zheng's research
 
 See full publication/citation list at [Google Scholar](https://scholar.google.com/citations?user=KwRlfz0AAAAJ&hl=en)
 
+<br/>
+
 0. D. Kim, S. Yu, **F. Zheng**, Y. Li, S. Louisia, H. Frei, Lin-Wang Wang, and Peidong Yang, "Selective CO2 Electrocatalysis at the Pseudocapacitive Nanoparticle/Ordered-Ligand Interlayer", submitted.
 
-0. Y. Zhang, J. Kang, **F. Zheng**, P. Gao, S. Zhang, L.-W. Wang, "Borophosphene: a New Anisotrop Dirac Cone Monolayer with High Fermi Velocity and Unique Feature of Self-Doping", submitted.
+0. Y. Zhang, J. Kang, **F. Zheng**, P. Gao, S. Zhang, L.-W. Wang, "Borophosphene: a New Anisotrop Dirac Cone Monolayer with High Fermi Velocity and Unique Feature of Self-Doping", *J. Phys. Chem. Lett*, ASAP (2019) [html](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b02599).
 
 0. **F. Zheng**, L.-W. Wang, "Ultrafast Hot Carrier Injection in Au/GaN: The Role of Band Bending and the Interface Band Structure", *J. Phys. Chem. Lett*, ASAP (2019) [html](https://doi.org/10.1021/acs.jpclett.9b02402) [pdf](/papers/JPCL_ASAP.pdf)
 
